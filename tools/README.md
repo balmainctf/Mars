@@ -1,5 +1,8 @@
 ## 资源与工具
 
+* [iOS5 Web调试工具iWebinspector](http://www.iwebinspector.com/) 
+ ![iWebinpector screenshot](http://www.iwebinspector.com/screenshot.png)
+
 * [html5与css3技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
  
 * [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
@@ -40,6 +43,6 @@
  
 * [resize添加到收藏夹后，可直接在浏览器中出现各种分辨率的选择工具来查看不同分辨率下的页面效果](http://lab.maltewassermann.com/viewport-resizer/ "resize")
 
-* [移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
+* [移动端手势表](http://ww1.sinaimg.cn/large/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
 
 * [webkit独有的样式分析](http://ued.ctrip.com/blog/wp-content/webkitcss/ "webkit独有的样式分析")
